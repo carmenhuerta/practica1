@@ -14,9 +14,6 @@ Este proyecto analiza los factores que influyen en el comportamiento de los clie
 - **html/**: Notebooks convertidos a formato HTML.
 - **notebooks/**: Notebooks originales en formato `.ipynb`.
 
-## Reproducir el Trabajo
-1. Coloca los datos en la carpeta `data/`.
-2. Ejecuta los notebooks en orden numérico desde la carpeta `notebooks/`.
 
 ## Repositorio en GitHub
 [
