@@ -16,4 +16,4 @@ Este proyecto analiza los factores que influyen en el comportamiento de los clie
 
 
 ## Repositorio en GitHub
-[
+https://github.com/carmenhuerta/practica1.git
