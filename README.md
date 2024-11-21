@@ -1,10 +1,5 @@
 # practica1
 # Análisis de Clientes y Préstamos
-
-
-# practica1
-# Análisis de Clientes y Préstamos
-
 ## Descripción
 Este proyecto analiza los factores que influyen en el comportamiento de los clientes al pagar sus préstamos. Incluye análisis exploratorios y visualizaciones clave, así como recomendaciones basadas en los resultados.
 
