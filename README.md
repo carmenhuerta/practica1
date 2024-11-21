@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # practica1
 # Análisis de Clientes y Préstamos
@@ -6,6 +7,13 @@
 Este proyecto analiza los factores que influyen en el comportamiento de los clientes al pagar sus préstamos. Incluye análisis exploratorios y visualizaciones clave, así como recomendaciones basadas en los resultados.
 
 
+=======
+# practica1
+# Análisis de Clientes y Préstamos
+## Descripción
+Este proyecto analiza los factores que influyen en el comportamiento de los clientes al pagar sus préstamos. Incluye análisis exploratorios y visualizaciones clave, así como recomendaciones basadas en los resultados.
+
+>>>>>>> 410abb585b130643ab0dcfe850505c4f496c00e9
 00_carga_datos.html
 Este informe inicial explora las características generales del dataset. Se realiza un análisis descriptivo para identificar las distribuciones de las variables, los tipos de datos, y un vistazo a los valores faltantes. También se analizan las correlaciones entre las variables para destacar patrones iniciales importantes.
 
@@ -27,4 +35,10 @@ Este informe finaliza la preparación de los datos. Aquí se realiza la codifica
 
 
 ## Repositorio en GitHub
+<<<<<<< HEAD
 https://github.com/carmenhuerta/practica1.git
+=======
+https://github.com/carmenhuerta/practica1.git
+
+
+>>>>>>> 410abb585b130643ab0dcfe850505c4f496c00e9
