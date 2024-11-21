@@ -26,4 +26,4 @@ Este informe finaliza la preparación de los datos. Aquí se realiza la codifica
 ## Repositorio en GitHub
 https://github.com/carmenhuerta/practica1.git
 
-t
+
